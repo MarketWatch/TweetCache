@@ -11,10 +11,10 @@ To contribute to the project, first you need to set up the virtual environment. 
 To replicate the development virtual environment, enter the following command in your terminal:
 
 ```shell
-conda create --name <envname> --file requirements.txt
+$ conda create --name <envname> --file requirements.txt
 ```
 Finally, once the environment is set up successfully, activate the environment using the following command:
 
 ```shell
-conda activate <envname>
+$ conda activate <envname>
 ```
